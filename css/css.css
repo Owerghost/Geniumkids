@@ -65,7 +65,7 @@ box-shadow: 0.4em 0.4em 5px rgba(122,122,122,0.5)
 .shapka{
 font-family: Times New Roman;
 font-style: normal;
-font-size: calc(50px - 10 * (100vw /1280px));
+font-size: 26px;
 text-align: center;
 margin: auto 0;
 }
